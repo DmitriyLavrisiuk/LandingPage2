@@ -1,0 +1,11 @@
+.header-screen {
+    min-height: 100vh;
+    background: fixed url(../img/background/broadway.jpg) center center no-repeat;
+    background-size: cover;
+
+    &-background {
+        
+    }
+}
+
+@import "./__title/header-screen__title.scss";

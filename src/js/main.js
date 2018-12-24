@@ -1,5 +1,0 @@
-import 'bootstrap';
-
-$(document).ready(
-);
- 

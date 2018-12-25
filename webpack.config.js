@@ -20,8 +20,8 @@ module.exports = {
     entry: {
         // main file of project
         main: [
-            './common.blocks/main.js',
-            './common.blocks/main.scss'
+            './js/main.js',
+            './scss/main.scss'
         ],
     },
 

@@ -1,0 +1,17 @@
+/* BUNDLES ALL BEM MODULES */
+
+// module wrapper-page
+@import "./wrapper-page/wrapper-page.scss";
+@import "./wrapper-page/__item/_color/-light/wrapper-page__item_color-light.scss";
+@import "./wrapper-page/__item/_color/-dark/wrapper-page__item_color-dark.scss";
+
+// module header-screen
+@import "./header-screen/header-screen.scss";
+@import "./header-screen/_background/-image/header-screen_background-image.scss";
+@import "./header-screen/__layer-mask/header-screen__layer-mask.scss";
+@import "./header-screen/__subtitle/header-screen__subtitle.scss";
+@import "./header-screen/__title/header-screen__title.scss";
+@import "./header-screen/__title/_shadow/header-screen__title_shadow.scss";
+
+// module button-custom
+@import "./button-custom/__item/button-custom__item.scss";

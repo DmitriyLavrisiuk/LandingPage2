@@ -1,0 +1,13 @@
+.button-custom {
+    &__item {
+        background: inherit;
+        border: 1px solid currentColor;
+        text-transform: uppercase;
+        border-radius: 50px;
+        padding: .8rem 2rem;
+        color: inherit;
+        font-size: .8em;
+        font-weight: bold;
+        letter-spacing: .15rem;
+    }
+}

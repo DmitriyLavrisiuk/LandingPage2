@@ -1,0 +1,8 @@
+.header-screen {
+    &_background {
+        &-image {
+            background: fixed url(../img/background/golden-gate-bridge.jpg) center center no-repeat;
+            background-size: cover;
+        }
+    }
+}

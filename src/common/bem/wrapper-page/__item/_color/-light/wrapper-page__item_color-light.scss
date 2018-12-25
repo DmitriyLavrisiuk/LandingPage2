@@ -1,0 +1,10 @@
+.wrapper-page {
+    &__item {
+        &_color {
+            &-light {
+                color: rgb(255, 255, 255) !important;
+                border-color: rgb(255, 255, 255) !important;
+            }
+        }
+    }
+}

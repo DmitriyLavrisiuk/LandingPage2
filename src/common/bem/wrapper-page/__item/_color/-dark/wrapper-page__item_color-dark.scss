@@ -1,0 +1,9 @@
+.wrapper-page {
+    &__item {
+        &_color {
+            &-light {
+                color: rgb(40,40,46);
+            }
+        }
+    }
+}

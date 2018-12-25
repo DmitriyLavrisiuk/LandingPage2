@@ -2,8 +2,8 @@
     &__item {
         &_color {
             &-light {
-                color: rgb(255, 255, 255) !important;
-                border-color: rgb(255, 255, 255) !important;
+                color: $color-1-wrapper-page__item_color-light !important;
+                border-color: $color-1-wrapper-page__item_color-light !important;
             }
         }
     }

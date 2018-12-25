@@ -1,0 +1,7 @@
+.header-screen {
+    &__title {
+        &-shadow {
+            text-shadow: 1px 1px 6px $color-1-header-screen__title-shadow;
+        }
+    }
+}

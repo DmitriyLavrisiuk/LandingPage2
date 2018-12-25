@@ -1,0 +1,9 @@
+.button-custom {
+    &__text-color {
+        background: linear-gradient(45deg,
+            $color-1-button-custom__text-color 50%,
+            $color-2-button-custom__text-color 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}

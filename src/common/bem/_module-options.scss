@@ -1,0 +1,42 @@
+// wrapper-page ----------------------------------------------------------------------
+// wrapper-page__layer-mask
+/*
+    rgba(46, 5, 112, 0.85)
+    rgba(30, 102, 218, 0.85)
+*/
+$color-1-wrapper-page__layer-mask: rgba(0, 0, 0, 0.75);
+$color-2-wrapper-page__layer-mask: rgba(83, 52, 109, 0.75);
+
+// wrapper-page__item_color-dark
+// wrapper-page__item_color-light
+$color-1-wrapper-page__item_color-dark: rgb(40, 40, 46);
+$color-1-wrapper-page__item_color-light: rgb(255, 255, 255);
+
+
+
+// header-screen ----------------------------------------------------------------------
+// header-screen__title-shadow
+$color-1-header-screen__title-shadow: rgba(0, 0, 0, 0.3);
+
+// header-screen_background-image
+$url-1-header-screen_background-image: url(../img/background/golden-gate-bridge.jpg);
+
+// header-screen_background-gradient
+$color-1-header-screen_background-gradient: rgba(205, 15, 216, .5);
+$color-2-header-screen_background-gradient: rgba(52, 131, 255, .5);
+
+
+
+
+// button-custom ----------------------------------------------------------------------
+// button-custom__text-color
+$color-1-button-custom__text-color: rgba(15, 0, 51, 1);
+$color-2-button-custom__text-color: rgba(0, 0, 0, 1);
+
+// button-custom__item-fill
+$background-color-1-button-custom__item-fill: currentColor;
+
+// button-custom__item-outline
+$color-1-button-custom__item-outline: currentColor;
+$border-color-1-button-custom__item-outline: currentColor;
+$background-color-1-button-custom__item-outline: inherit;

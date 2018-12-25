@@ -1,0 +1,7 @@
+.button-custom {
+    &__item {
+        &-fill {
+            background-color: $background-color-1-button-custom__item-fill;
+        }
+    }
+}

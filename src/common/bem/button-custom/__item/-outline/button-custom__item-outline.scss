@@ -1,0 +1,9 @@
+.button-custom {
+    &__item {
+        &-outline {
+            background-color: $background-color-1-button-custom__item-outline;
+            border: 1px solid $border-color-1-button-custom__item-outline;
+            color: $color-1-button-custom__item-outline;
+        }
+    }
+}
